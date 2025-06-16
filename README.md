@@ -39,7 +39,7 @@ This version is **separate** from the C++ console implementation and was built i
 ## 🏁 Getting Started
 To run this project:
 1. Open SQL Server Management Studio.
-2. Execute the scripts in the correct order (tables → triggers → procedures → test data).
+2. Execute the scripts in the correct order (tables  → procedures → test data).
 3. Use the provided SELECT queries for reports.
 
 
